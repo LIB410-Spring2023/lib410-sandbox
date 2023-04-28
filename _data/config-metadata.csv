@@ -9,7 +9,8 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Identifier,,
-type,Type,
+type,Work Type,
+language,Language,
 format,Format,
 creativecommons,Creative Commons License,
 rights,Rights Statement,
