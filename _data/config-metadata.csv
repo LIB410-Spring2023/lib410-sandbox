@@ -8,8 +8,11 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
+identifier,Identifier,,
 type,Type,
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+creativecommons,Creative Commons License,
+rights,Rights Statement,
+rightsnotes,Rights Note,
+archivedpage,Link to Archived Page,
+citation,Citation,
