@@ -1,3 +1,6 @@
+# What is the purpose of this repository?
+The purpose of this CollectionBuilder repository is to see an example CollectionBuilder website.
+
 # collectionbuilder-gh
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
